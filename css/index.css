@@ -1,0 +1,42 @@
+/*font-family: 'Quicksand', sans-serif;*/
+.nav{
+    background: #0CCE6B;
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    border-right: solid 1px white; 
+}
+
+h3 {
+    border-right: solid 1px white;
+    padding: 0;
+}
+
+.status{
+    padding-top: 15px;
+}
+
+.logIn{
+    padding-top: 15px; 
+}
+
+.ticketDuration {
+    padding-top: 35px;
+}
+
+.radio-inline {
+    padding-right: 60px;
+    text-align: center;
+}
+
+.radio-inline:last-child {
+    padding: 0;
+}
+
+.selectTitle{
+    text-align: center;
+    /*font-weight: bold;*/
+    font-family: 'Quicksand', sans-serif;
+}
